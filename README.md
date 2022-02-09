@@ -1,6 +1,9 @@
 # hello-algorithms
 Learning algorithms and data structures.
 
+- [Leetcode](https://github.com/lewiszlw/leetcode)
+- [CodingInterviews 《剑指offer》](https://github.com/lewiszlw/CodingInterviews)
+
 ## algorithms-java
 ### algorithms
 **1.[布隆过滤器](https://github.com/lewiszlw/hello-algorithms/blob/main/algorithms-java/src/main/java/lewiszlw/algorithms/BloomFilter.java)**
